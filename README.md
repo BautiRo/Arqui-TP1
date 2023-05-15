@@ -1,11 +1,5 @@
 # Punto de partida para el TP 1 de Arquitectura del Software (75.73) del 1er cuatrimestre de 2022
 
-> **La fecha de entrega para el informe y el código es el jueves 19/05** :bangbang:
-
-La forma de entrega será crear un canal **privado** en Slack (llamado como el grupo) con todos los miembros del grupo y todos los docentes, y poner ahí un link al repositorio con el código (en caso de ser privado, invitar también a todos los docentes) y el informe (o avisar si está en el repositorio).
-
-El informe puede ser un PDF, Google Doc o Markdown/Wiki en el mismo repositorio del código. **Debe** incluir screenshots del dashboard de métricas para cada caso analizado que permitan observar los resultados obtenidos.
-
 ## Objetivos
 
 El objetivo principal es comparar algunas tecnologías, ver cómo diversos aspectos impactan en los atributos de calidad y probar, o al menos sugerir, qué cambios se podrían hacer para mejorarlos.
